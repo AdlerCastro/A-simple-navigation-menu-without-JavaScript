@@ -1,3 +1,7 @@
+## O projeto em questão apresenta um modo de desenvolver um menu mobile de navegação sem necessitar do javascript para a verificação de click. Desenvolvido com o intuito de treinamento das habilidades em frontend.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
